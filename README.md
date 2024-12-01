@@ -1,4 +1,4 @@
-VLSI Project: Design and Simulation of CMOS, Combinational, and Sequential Circuits
+VLSI Project: Design and Simulation of CMOS, Combinational, and Sequential Circuits on Cadence and Xilinx ISE 14.7
 
 Overview
 
