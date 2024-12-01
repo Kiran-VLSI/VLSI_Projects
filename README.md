@@ -38,11 +38,11 @@ Features✅
  Project Structure✅
 
 src/                  # Source files (Verilog/VHDL for Xilinx; SPICE files for Cadence)
-├── scripts/              # Simulation and automation scripts
-├── docs/                 # Documentation and design reports
-├── testbench/            # Testbench files for Xilinx ISE
-├── results/              # Simulation waveforms, power, and timing reports
-└── README.md             # Project overview
+scripts/              # Simulation and automation scripts
+docs/                 # Documentation and design reports
+testbench/            # Testbench files for Xilinx ISE
+results/              # Simulation waveforms, power, and timing reports
+README.md             # Project overview
 
 How to Run✅
 
@@ -134,7 +134,7 @@ This project is made possible through the use of industry-standard tools and inv
   - Spectre Simulator: For in-depth performance analysis of CMOS circuits.  
 
 - Mentors/Guides:  
-  Special thanks to **Dr. P. Latha**, my mentor from the Department of Electronics and Communication Engineering (ECE), for her insightful feedback, guidance, and continuous support throughout the project.
+  Special thanks to **Dr. P. Latha**, my mentor from the Department of Electronics and Communication Engineering (ECE), for her insightful feedback, guidance, and continuous support throughout the projects.
 
 - References:  
   The project draws inspiration and guidance from key books, research papers, and online resources mentioned earlier in the "Books and References" section.
