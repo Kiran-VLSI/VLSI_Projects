@@ -37,7 +37,7 @@ Features✅
 
  Project Structure✅
 
-├── src/                  # Source files (Verilog/VHDL for Xilinx; SPICE files for Cadence)
+src/                  # Source files (Verilog/VHDL for Xilinx; SPICE files for Cadence)
 ├── scripts/              # Simulation and automation scripts
 ├── docs/                 # Documentation and design reports
 ├── testbench/            # Testbench files for Xilinx ISE
